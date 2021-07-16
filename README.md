@@ -8,9 +8,9 @@ My name is Elian Manuel Toribio Germosen, I'm from the Dominican Republic. I'm s
   
 ## GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=elianmtg&&show_icons=true&title_color=CAF0F8&icon_color=CAF0F8&text_color=00B4D8&bg_color=03045E">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=elianmtg&&show_icons=true&title_color=CAF0F8&icon_color=CAF0F8&text_color=00B4D8&bg_color=03045E">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elianmtg&hide=java,html&title_color=CAF0F8&text_color=00B4D8&icon_color=CAF0F8&bg_color=03045E">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elianmtg&hide=java,html&title_color=CAF0F8&text_color=00B4D8&icon_color=CAF0F8&bg_color=03045E">
   
 <div align="center"> 
   
