@@ -6,7 +6,11 @@ My name is Elian Manuel Toribio Germosen, I'm from the Dominican Republic. I'm s
 <a href="https://github.com/Elianmtg" target="_blank" title="GitHub">
   <img  src="https://img.icons8.com/ios-glyphs/50/000000/github.png"></a><a  href="https://www.linkedin.com/in/elian-manuel-toribio-germosen-b19a5b203" target="_blank" title="LinkedIn"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a><a  href="https://m.youtube.com/channel/UCVNTv72L6mQOnuSSDDP6Q5g" target="_blank" title="YouTube"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a><a href="https://twitter.com/elianmtg_" target="_blank" title="Twitter"><img  src="https://img.icons8.com/color/48/000000/twitter--v1.png"></a><a  href="https://instagram.com/elianmtg_" target="_blank" title="Instagram"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a><a  href="t.me/Elianmtg" target="_blank" title="Telegram"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/></a>
   
-<div align="center"> ### Show me ❤️ starring some of the repositories!</div>
+<div align="center"> 
+  
+  ### Show me ❤️ starring some of the repositories!
+  
+</div>
 
 <!--### Hi there 👋-->
 
