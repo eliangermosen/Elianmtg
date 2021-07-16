@@ -1,6 +1,6 @@
 # Hi, lovers tech!👋
 
-My name is Elian Manuel Toribio Germosen, I'm from the Dominican Republic. I'm software developer and lover of the innovation and of course the tecnology.
+My name is Elian Manuel Toribio Germosen, I'm from the Dominican Republic. I'm a software developer in progress and lover of the innovation and of course the tecnology.
 
 ## Connect with me:
 
