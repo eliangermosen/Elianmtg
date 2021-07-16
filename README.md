@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi, lovers tech!👋
+
+My name is Elian Manuel Toribio Germosen, I'm from the Dominican Republic. I'm software developer and lover of the innovation and of course the tecnology.
+
+<!--### Hi there 👋-->
 
 <!--
 **Elianmtg/Elianmtg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
